@@ -1,0 +1,23 @@
+<config>
+	<merchPrivKey>E:/NAF/eNets/merchant-test-priv.pgp.asc</merchPrivKey>
+	<merchKeyPass>P@ssword$123</merchKeyPass>
+	<netsPubKey>E:/NAF/eNets/nets-full-pub.pgp.asc</netsPubKey>
+	
+	<payURL>https://test.enets.sg/enets2/PaymentListener.do</payURL>
+	<queryURL>https://test.enets.sg/enets2/QueryTxnStatus.do</queryURL>
+	<usePGP>true</usePGP>	
+	
+	<useProxy>false</useProxy>
+	<proxyHost></proxyHost>
+	<proxyPort></proxyPort>
+	<proxyUsername></proxyUsername>
+	<proxyPassword></proxyPassword>
+	
+	<configPath></configPath>
+	<encryption>false</encryption>
+
+	<logLevel>debug</logLevel>
+	<logFile>E:/NAF/eNets/umapi.log</logFile>
+	<protocol>https</protocol>
+	
+</config>
