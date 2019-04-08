@@ -7,7 +7,7 @@
 	<queryURL>https://test.enets.sg/enets2/QueryTxnStatus.do</queryURL>
 	<usePGP>true</usePGP>	
 	
-	<useProxy>false</useProxy>
+	<useProxy>true</useProxy>
 	<proxyHost></proxyHost>
 	<proxyPort></proxyPort>
 	<proxyUsername></proxyUsername>
